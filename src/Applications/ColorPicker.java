@@ -28,9 +28,9 @@ public class ColorPicker extends JFrame {
     JLabel redLabel = new JLabel("Red:");
     JLabel greenLabel = new JLabel("Green:");
     JLabel blueLabel = new JLabel("Blue:");
-    JLabel rL = new JLabel();
-    JLabel gL = new JLabel();
-    JLabel bL = new JLabel();
+    JLabel rL = new JLabel("Red: 125");
+    JLabel gL = new JLabel("Green: 125");
+    JLabel bL = new JLabel("Blue: 125");
     
     JPanel panel1 = new JPanel();
     JPanel panel2 = new JPanel();
