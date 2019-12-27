@@ -409,3 +409,6 @@ ASALocalRun/
 ClassDiagram1.png
 ClassDiagram1_1.png
 ClassDiagram1_2.png
+/nbproject/private/
+/build/
+/dist/
